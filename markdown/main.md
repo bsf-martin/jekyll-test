@@ -25,4 +25,6 @@ titlepage: true
 {{include mimeamiskaytannotjametatiedot.md}}
 \newpage
 {{include liitteet.md}}
+\newpage
+{{include test.md}}
 
